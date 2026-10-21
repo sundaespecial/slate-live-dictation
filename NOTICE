@@ -1,10 +1,15 @@
-Slate — Live Dictation
+Open Slate — Offline Dictation (formerly Slate)
 Copyright 2026 Elijah Wright
 
 Licensed under the Apache License, Version 2.0. See LICENSE.
 
 For this distribution, the copyright owner grants Apache 2.0 rights to the
-original Slate application work, superseding the legacy Slate Source-Available
-Licence embedded in the unchanged APK. This grant does not relicense third-party
+original Slate/Open Slate application work, superseding the legacy Slate Source-Available
+Licence embedded in earlier builds. This grant does not relicense third-party
 libraries, models, or other components; their licenses and notices remain in force.
 Existing embedded attribution notices are preserved.
+
+Open Slate 1.4.0 uses Phonon-2 by Fermion Research, derived from NVIDIA's
+Parakeet TDT 0.6B v3. The model weights are CC BY 4.0. The native Android engine
+and header are Apache 2.0. Full upstream notices and license texts are included
+in PHONON-NOTICES.txt and bundled in the APK.
